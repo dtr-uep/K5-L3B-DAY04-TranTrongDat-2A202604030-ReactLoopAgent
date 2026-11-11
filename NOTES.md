@@ -1,7 +1,7 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên:Trần Trọng Đạt
+MSSV: 2A202604030
 
 ## 1. Case được chọn
 
